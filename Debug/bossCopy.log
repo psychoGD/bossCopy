@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(27,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(48,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(146,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(155,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(162,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(164,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(176,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(213,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(215,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(226,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(239,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(264,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(266,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(279,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(294,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Start.h(298,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huseyn\source\repos\bossCopy\bossCopy\Source.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bossCopy.vcxproj -> C:\Users\Huseyn\source\repos\bossCopy\Debug\bossCopy.exe
